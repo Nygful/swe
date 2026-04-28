@@ -164,4 +164,7 @@ main{
 .social-links a:hover {
   transform: translateY(-10px);
 }
+p{
+  color: #000;
+}
 
